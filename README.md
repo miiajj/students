@@ -15,7 +15,7 @@ A mini project used to import the 'xlsx' student file built from the Laravel fra
 - Laravel 8.x - PHP 7.4 - MySQL 5.7
 - Laravel Excel LE 3.1
 - Create a database named `ghtk`
-- Import file `students` into `ghtk` database
+- Import file `students` into `ghtk` database or `php artisan migrate`
 
 ### Read File
 - Read start from `row 6`, column `B` to column `W`...
